@@ -2,3 +2,8 @@
 	path = Unitiva-ODOO/ngd-odoo-sh
 	url = git@github.com:Unitiva-ODOO/ngd-odoo-sh.git
 	branch = 14.0
+
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 14.0
