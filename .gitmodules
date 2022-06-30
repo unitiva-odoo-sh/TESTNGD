@@ -1,0 +1,4 @@
+[submodule "Unitiva-ODOO/ngd-odoo-sh"]
+	path = Unitiva-ODOO/ngd-odoo-sh
+	url = git@github.com:Unitiva-ODOO/ngd-odoo-sh.git
+	branch = 14.0
